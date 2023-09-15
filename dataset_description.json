@@ -1,0 +1,9 @@
+{
+    "Name": "language fMRI",
+    "BIDSVersion": "1.6.1",
+    "Authors": [
+        "Joe Bathelt",
+        "Joanne Taylor",
+        "Kathy Rastle"
+    ]
+}
